@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Vincent Tsai</h1>
-<h3 align="center">A passionate data science and AI developer from Taiwan</h3>
+<h3 align="center">A passionate Data Science and AI developer from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincenttsai0601&label=Profile%20views&color=0e75b6&style=flat" alt="vincenttsai0601" /> </p>
 
